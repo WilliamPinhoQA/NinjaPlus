@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="6fe9a55e-4a0c-4da4-a503-8a19be8aa366" name="William@DESKTOP-FV5Q462 2021-11-14 18:42:20" runUser="DESKTOP-FV5Q462\William" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-11-14T18:42:20.5019282-03:00" queuing="2021-11-14T18:42:20.5019302-03:00" start="2021-11-14T18:42:15.7913039-03:00" finish="2021-11-14T18:43:31.1887879-03:00" />
+  <TestSettings name="default" id="aba3ede7-891f-4846-9c23-9b6955ee4d9d">
+    <Deployment runDeploymentRoot="William_DESKTOP-FV5Q462_2021-11-14_18_42_20" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="287017cf-1a48-4fee-beeb-d8a171ed6991" testId="580853c0-3c8d-2dc9-ba80-96cfb3de1ad4" testName="ShouldSaveMovie(&quot;Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai&quot;,&quot;Disponível&quot;,&quot;2018&quot;,&quot;04/10/2018&quot;,&quot;Sakurajima Mei&quot;,&quot;Azusaga Sakuta&quot;,&quot;Azusaga Kaede&quot;,&quot;Um anime muito melhor que monogatari.&quot;,&quot;cover bg.jpg&quot;)" computerName="DESKTOP-FV5Q462" duration="00:00:10.8722110" startTime="2021-11-14T18:42:39.0000000-03:00" endTime="2021-11-14T18:42:50.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="287017cf-1a48-4fee-beeb-d8a171ed6991">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1010.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="e34b4c3d-3125-49a4-af06-67157926f4a1" testId="0a80c0a6-bdd9-febc-44ac-464f19137652" testName="ShoudBeHaveTitle" computerName="DESKTOP-FV5Q462" duration="00:00:03.8097090" startTime="2021-11-14T18:42:35.0000000-03:00" endTime="2021-11-14T18:42:39.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e34b4c3d-3125-49a4-af06-67157926f4a1">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1008.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="2da3588e-0622-4806-89fd-9cf7a8afcfd7" testId="99bfde22-17d3-44e2-7a41-3303f3925d83" testName="ShouldSeeAlertMessage(&quot;&quot;,&quot;madoka123&quot;,&quot;Opps. Cadê o email?&quot;)" computerName="DESKTOP-FV5Q462" duration="00:00:03.8989850" startTime="2021-11-14T18:42:24.0000000-03:00" endTime="2021-11-14T18:42:28.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2da3588e-0622-4806-89fd-9cf7a8afcfd7">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1004.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="0820bbe4-ad48-4249-8151-ea05eb811912" testId="b9c14c97-92f4-a8d8-2db8-ecda4f9de901" testName="ShouldFindUniqueMovie(&quot;Batman&quot;,2)" computerName="DESKTOP-FV5Q462" duration="00:00:06.8743350" startTime="2021-11-14T18:43:07.0000000-03:00" endTime="2021-11-14T18:43:14.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0820bbe4-ad48-4249-8151-ea05eb811912">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1015.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="19d771cf-242c-441d-b4e7-3613fd0a2a89" testId="802b02be-524c-cf5a-8153-696af31aae41" testName="ShouldSeeLoggedUser" computerName="DESKTOP-FV5Q462" duration="00:00:03.7872240" startTime="2021-11-14T18:42:32.0000000-03:00" endTime="2021-11-14T18:42:35.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="19d771cf-242c-441d-b4e7-3613fd0a2a89">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1001.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="32dbcc7b-b35d-4f9f-a2df-f8af82aca7af" testId="c53aabcd-0646-32ca-d803-b81df239c49e" testName="ShouldSaveMovie(&quot;Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten&quot;,&quot;Em breve&quot;,&quot;2022&quot;,&quot;02/02/2022&quot;,&quot;Akemi, Homura&quot;,&quot;Kaname, Madoka&quot;,&quot;Sakura, Kyouko&quot;,&quot;Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari follows Homura in her struggle to uncover the painful truth behind the mysterious circumstances.&quot;,&quot;cover madoka.jpg&quot;)" computerName="DESKTOP-FV5Q462" duration="00:00:10.1974810" startTime="2021-11-14T18:42:50.0000000-03:00" endTime="2021-11-14T18:43:00.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="32dbcc7b-b35d-4f9f-a2df-f8af82aca7af">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1011.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="f512a2f3-ad0d-495d-89fb-d845c0962aab" testId="e67a5907-d902-6b06-aed6-b06c2815a774" testName="ShouldFindUniqueMovie(&quot;Geass&quot;,0)" computerName="DESKTOP-FV5Q462" duration="00:00:16.8220750" startTime="2021-11-14T18:43:14.0000000-03:00" endTime="2021-11-14T18:43:31.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f512a2f3-ad0d-495d-89fb-d845c0962aab">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1016.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="df2c4382-fe4e-4f09-8a2c-a4f8161f5356" testId="a4f01db6-d46a-130a-1311-18c2f5efc137" testName="ShouldFindUniqueMovie(&quot;Coringa&quot;,1)" computerName="DESKTOP-FV5Q462" duration="00:00:06.6810190" startTime="2021-11-14T18:43:00.0000000-03:00" endTime="2021-11-14T18:43:07.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="df2c4382-fe4e-4f09-8a2c-a4f8161f5356">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1014.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="2166f0fc-ba10-45a8-9f67-c4d0406a22fa" testId="4743fb32-be9e-1e8c-ac88-f240788123e1" testName="ShouldSeeAlertMessage(&quot;madoka32@ninjaplus.com&quot;,&quot;1&quot;,&quot;Usuário e/ou senha inválidos&quot;)" computerName="DESKTOP-FV5Q462" duration="00:00:03.8153170" startTime="2021-11-14T18:42:16.0000000-03:00" endTime="2021-11-14T18:42:20.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2166f0fc-ba10-45a8-9f67-c4d0406a22fa">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1002.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="25c8fe8d-df4b-48cb-a359-e728a6a36826" testId="dcac8ce0-e570-a458-8b05-119a53c6beeb" testName="ShouldSeeAlertMessage(&quot;madoka32@ninjaplus.com&quot;,&quot;&quot;,&quot;Opps. Cadê a senha?&quot;)" computerName="DESKTOP-FV5Q462" duration="00:00:03.8905810" startTime="2021-11-14T18:42:28.0000000-03:00" endTime="2021-11-14T18:42:32.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="25c8fe8d-df4b-48cb-a359-e728a6a36826">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1005.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="9e052328-5721-44cd-9960-affcee63a748" testId="2b3654bd-1389-8a16-ce93-759b65e75e8f" testName="ShouldSeeAlertMessage(&quot;1&quot;,&quot;1&quot;,&quot;Usuário e/ou senha inválidos&quot;)" computerName="DESKTOP-FV5Q462" duration="00:00:03.8132690" startTime="2021-11-14T18:42:20.0000000-03:00" endTime="2021-11-14T18:42:24.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e052328-5721-44cd-9960-affcee63a748">
+      <ResultFiles>
+        <ResultFile path="DESKTOP-FV5Q462\0-1003.png" />
+      </ResultFiles>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="ShouldSaveMovie(&quot;Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten&quot;,&quot;Em breve&quot;,&quot;2022&quot;,&quot;02/02/2022&quot;,&quot;Akemi, Homura&quot;,&quot;Kaname, Madoka&quot;,&quot;Sakura, Kyouko&quot;,&quot;Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari follows Homura in her struggle to uncover the painful truth behind the mysterious circumstances.&quot;,&quot;cover madoka.jpg&quot;)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="c53aabcd-0646-32ca-d803-b81df239c49e">
+      <Execution id="32dbcc7b-b35d-4f9f-a2df-f8af82aca7af" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.SaveMovieTest" name="ShouldSaveMovie(&quot;Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten&quot;,&quot;Em breve&quot;,&quot;2022&quot;,&quot;02/02/2022&quot;,&quot;Akemi, Homura&quot;,&quot;Kaname, Madoka&quot;,&quot;Sakura, Kyouko&quot;,&quot;Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari follows Homura in her struggle to uncover the painful truth behind the mysterious circumstances.&quot;,&quot;cover madoka.jpg&quot;)" />
+    </UnitTest>
+    <UnitTest name="ShoudBeHaveTitle" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="0a80c0a6-bdd9-febc-44ac-464f19137652">
+      <Execution id="e34b4c3d-3125-49a4-af06-67157926f4a1" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.OnAirTest" name="ShoudBeHaveTitle" />
+    </UnitTest>
+    <UnitTest name="ShouldFindUniqueMovie(&quot;Geass&quot;,0)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="e67a5907-d902-6b06-aed6-b06c2815a774">
+      <Execution id="f512a2f3-ad0d-495d-89fb-d845c0962aab" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.SearchMovieTests" name="ShouldFindUniqueMovie(&quot;Geass&quot;,0)" />
+    </UnitTest>
+    <UnitTest name="ShouldSeeAlertMessage(&quot;1&quot;,&quot;1&quot;,&quot;Usuário e/ou senha inválidos&quot;)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="2b3654bd-1389-8a16-ce93-759b65e75e8f">
+      <Execution id="9e052328-5721-44cd-9960-affcee63a748" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.LoginTests" name="ShouldSeeAlertMessage(&quot;1&quot;,&quot;1&quot;,&quot;Usuário e/ou senha inválidos&quot;)" />
+    </UnitTest>
+    <UnitTest name="ShouldSeeAlertMessage(&quot;madoka32@ninjaplus.com&quot;,&quot;1&quot;,&quot;Usuário e/ou senha inválidos&quot;)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="4743fb32-be9e-1e8c-ac88-f240788123e1">
+      <Execution id="2166f0fc-ba10-45a8-9f67-c4d0406a22fa" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.LoginTests" name="ShouldSeeAlertMessage(&quot;madoka32@ninjaplus.com&quot;,&quot;1&quot;,&quot;Usuário e/ou senha inválidos&quot;)" />
+    </UnitTest>
+    <UnitTest name="ShouldFindUniqueMovie(&quot;Coringa&quot;,1)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="a4f01db6-d46a-130a-1311-18c2f5efc137">
+      <Execution id="df2c4382-fe4e-4f09-8a2c-a4f8161f5356" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.SearchMovieTests" name="ShouldFindUniqueMovie(&quot;Coringa&quot;,1)" />
+    </UnitTest>
+    <UnitTest name="ShouldSaveMovie(&quot;Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai&quot;,&quot;Disponível&quot;,&quot;2018&quot;,&quot;04/10/2018&quot;,&quot;Sakurajima Mei&quot;,&quot;Azusaga Sakuta&quot;,&quot;Azusaga Kaede&quot;,&quot;Um anime muito melhor que monogatari.&quot;,&quot;cover bg.jpg&quot;)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="580853c0-3c8d-2dc9-ba80-96cfb3de1ad4">
+      <Execution id="287017cf-1a48-4fee-beeb-d8a171ed6991" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.SaveMovieTest" name="ShouldSaveMovie(&quot;Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai&quot;,&quot;Disponível&quot;,&quot;2018&quot;,&quot;04/10/2018&quot;,&quot;Sakurajima Mei&quot;,&quot;Azusaga Sakuta&quot;,&quot;Azusaga Kaede&quot;,&quot;Um anime muito melhor que monogatari.&quot;,&quot;cover bg.jpg&quot;)" />
+    </UnitTest>
+    <UnitTest name="ShouldSeeAlertMessage(&quot;madoka32@ninjaplus.com&quot;,&quot;&quot;,&quot;Opps. Cadê a senha?&quot;)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="dcac8ce0-e570-a458-8b05-119a53c6beeb">
+      <Execution id="25c8fe8d-df4b-48cb-a359-e728a6a36826" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.LoginTests" name="ShouldSeeAlertMessage(&quot;madoka32@ninjaplus.com&quot;,&quot;&quot;,&quot;Opps. Cadê a senha?&quot;)" />
+    </UnitTest>
+    <UnitTest name="ShouldFindUniqueMovie(&quot;Batman&quot;,2)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="b9c14c97-92f4-a8d8-2db8-ecda4f9de901">
+      <Execution id="0820bbe4-ad48-4249-8151-ea05eb811912" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.SearchMovieTests" name="ShouldFindUniqueMovie(&quot;Batman&quot;,2)" />
+    </UnitTest>
+    <UnitTest name="ShouldSeeAlertMessage(&quot;&quot;,&quot;madoka123&quot;,&quot;Opps. Cadê o email?&quot;)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="99bfde22-17d3-44e2-7a41-3303f3925d83">
+      <Execution id="2da3588e-0622-4806-89fd-9cf7a8afcfd7" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.LoginTests" name="ShouldSeeAlertMessage(&quot;&quot;,&quot;madoka123&quot;,&quot;Opps. Cadê o email?&quot;)" />
+    </UnitTest>
+    <UnitTest name="ShouldSeeLoggedUser" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="802b02be-524c-cf5a-8153-696af31aae41">
+      <Execution id="19d771cf-242c-441d-b4e7-3613fd0a2a89" />
+      <TestMethod codeBase="C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.LoginTests" name="ShouldSeeLoggedUser" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="580853c0-3c8d-2dc9-ba80-96cfb3de1ad4" executionId="287017cf-1a48-4fee-beeb-d8a171ed6991" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0a80c0a6-bdd9-febc-44ac-464f19137652" executionId="e34b4c3d-3125-49a4-af06-67157926f4a1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99bfde22-17d3-44e2-7a41-3303f3925d83" executionId="2da3588e-0622-4806-89fd-9cf7a8afcfd7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b9c14c97-92f4-a8d8-2db8-ecda4f9de901" executionId="0820bbe4-ad48-4249-8151-ea05eb811912" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="802b02be-524c-cf5a-8153-696af31aae41" executionId="19d771cf-242c-441d-b4e7-3613fd0a2a89" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c53aabcd-0646-32ca-d803-b81df239c49e" executionId="32dbcc7b-b35d-4f9f-a2df-f8af82aca7af" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e67a5907-d902-6b06-aed6-b06c2815a774" executionId="f512a2f3-ad0d-495d-89fb-d845c0962aab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a4f01db6-d46a-130a-1311-18c2f5efc137" executionId="df2c4382-fe4e-4f09-8a2c-a4f8161f5356" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4743fb32-be9e-1e8c-ac88-f240788123e1" executionId="2166f0fc-ba10-45a8-9f67-c4d0406a22fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dcac8ce0-e570-a458-8b05-119a53c6beeb" executionId="25c8fe8d-df4b-48cb-a359-e728a6a36826" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2b3654bd-1389-8a16-ce93-759b65e75e8f" executionId="9e052328-5721-44cd-9960-affcee63a748" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Resultados que não estão em uma lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos os resultados carregados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="11" executed="11" passed="11" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.16.1.0: Test execution started&#xD;
+Running all tests in C:\QANINJA\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll&#xD;
+   NUnit3TestExecutor converted 11 of 11 NUnit test cases&#xD;
+NUnit Adapter 3.16.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
