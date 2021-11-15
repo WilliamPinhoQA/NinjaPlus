@@ -14,7 +14,7 @@ namespace NinjaPlus.Tests
 
 
         private LoginPage _login;
-        private MoviePage _movie;
+        private MoviePage _movieteste;
 
 
 
